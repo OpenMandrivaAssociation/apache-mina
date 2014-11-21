@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name: apache-mina
 Version: 2.0.7
 Release: 2%{?dist}
