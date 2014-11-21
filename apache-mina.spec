@@ -2,7 +2,7 @@ Name: apache-mina
 Version: 2.0.7
 Release: 2%{?dist}
 Summary: Apache MINA
-Group: Development/Libraries
+Group: System/Libraries
 License: ASL 2.0
 URL: http://mina.apache.org
 Source0: http://mina.apache.org/dyn/closer.cgi/mina/%{version}/%{name}-%{version}-src.tar.gz
