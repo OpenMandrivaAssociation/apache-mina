@@ -5,7 +5,7 @@ Release: 2%{?dist}
 Summary: Apache MINA
 Group: System/Libraries
 License: ASL 2.0
-URL: http://mina.apache.org
+URL: https://mina.apache.org
 Source0: http://mina.apache.org/dyn/closer.cgi/mina/%{version}/%{name}-%{version}-src.tar.gz
 BuildArch: noarch
 
